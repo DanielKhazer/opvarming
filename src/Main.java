@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         ArrayList<Double> list = new ArrayList<>();
-        System.out.println("EOOOOOW dig");
+        System.out.println("Hej med dig");
         Scanner tal = new Scanner(System.in);
 
         System.out.println("Indtast tal");
